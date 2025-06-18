@@ -1,0 +1,1 @@
+// Aquí iría la lógica para obtener y procesar señales reales en el futuro

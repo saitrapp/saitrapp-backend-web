@@ -1,0 +1,1 @@
+// Aquí irían funciones de validación comunes
